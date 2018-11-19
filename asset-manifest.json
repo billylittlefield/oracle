@@ -1,0 +1,13 @@
+{
+  "main.css": "/oracle/static/css/main.f63ce468.chunk.css",
+  "main.js": "/oracle/static/js/main.caca576c.chunk.js",
+  "main.js.map": "/oracle/static/js/main.caca576c.chunk.js.map",
+  "static/js/1.1630119a.chunk.js": "/oracle/static/js/1.1630119a.chunk.js",
+  "static/js/1.1630119a.chunk.js.map": "/oracle/static/js/1.1630119a.chunk.js.map",
+  "runtime~main.js": "/oracle/static/js/runtime~main.7884f88b.js",
+  "runtime~main.js.map": "/oracle/static/js/runtime~main.7884f88b.js.map",
+  "static/css/main.f63ce468.chunk.css.map": "/oracle/static/css/main.f63ce468.chunk.css.map",
+  "index.html": "/oracle/index.html",
+  "precache-manifest.aeef8cd80deb0ac41746a76631f3bb2f.js": "/oracle/precache-manifest.aeef8cd80deb0ac41746a76631f3bb2f.js",
+  "service-worker.js": "/oracle/service-worker.js"
+}
