@@ -1,0 +1,58 @@
+.App {
+  height: 100%;
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-header {
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header h1 {
+  font-size: 80px;
+  text-shadow: 2px 2px 1px #5893e4;
+}
+
+.App-header h4 {
+  font-style: italics;
+}
+
+.App-header h1,
+.App-header h4 {
+  margin: 0 auto;
+}
+
+.ChampionRandomizer-button {
+  padding: 15px;
+  font-size: 24px;
+  color: white;
+  background-color: #005cad;
+  border: 2px solid white;
+}
+
+.ChampionResults {
+  background-color: #efe4f5;
+  width: 700px;
+  margin: 25px auto;
+  padding: 20px 40px;
+  box-sizing: border-box;
+  border: 2px solid white;
+}
+
+.ChampionResults-row {
+  padding: 10px 0;
+}
+
+.ChampionResults-copy-button {
+  padding: 10px;
+  font-size: 18px;
+  color: white;
+  background-color: #70009c;
+  border: 2px solid white;
+}
