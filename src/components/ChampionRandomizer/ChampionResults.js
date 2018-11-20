@@ -20,8 +20,6 @@ class ChampionResults extends Component {
   }
 
   render() {
-    let players = this.renderPlayers(this.props.results.players);
-    // let backups = this.renderBackups(this.props.results.backups);
     return (
       <>
         <div className="ChampionResults">
